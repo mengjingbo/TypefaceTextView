@@ -1,6 +1,7 @@
 # TypefaceTextView
 利用```Typeface```显示.ttf文件中的字符在TextView上面。
 ##### 效果图：
+![TypefaceTextView](https://github.com/mengjingbo/TypefaceTextView/blob/master/images/TypefaceTextView.png)
 ##### 代码如下：
 ```
   /**
